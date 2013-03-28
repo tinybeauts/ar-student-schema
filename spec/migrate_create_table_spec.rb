@@ -23,3 +23,4 @@ describe "create table with correct schema" do
     end
   end
 end
+
